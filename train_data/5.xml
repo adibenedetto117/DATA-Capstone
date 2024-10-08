@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_data</folder>
+	<filename>5.jpg</filename>
+	<path>/Users/anthonydibenedetto/Desktop/DS_CAPSTONE/attempt2/train_data/5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tony</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>161</xmin>
+			<ymin>191</ymin>
+			<xmax>221</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
