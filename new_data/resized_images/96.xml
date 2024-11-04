@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_images</folder>
+	<filename>96.jpg</filename>
+	<path>/Users/anthonydibenedetto/Desktop/Google Drive/Lewis University/cpastone-meetings/new_data/resized_images/96.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>96</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>34</ymin>
+			<xmax>392</xmax>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

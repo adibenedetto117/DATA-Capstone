@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized_images</folder>
+	<filename>3.jpg</filename>
+	<path>/Users/anthonydibenedetto/Desktop/Google Drive/Lewis University/cpastone-meetings/new_data/resized_images/3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>82</ymin>
+			<xmax>350</xmax>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>
