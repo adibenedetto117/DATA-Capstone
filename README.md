@@ -9,6 +9,8 @@
 
 ## Overview
 
+Check out our paper in the REPO - Final Report (Final)
+
 This repository contains the resources, data, and code for the research project titled **"Developing a CNN for Identifying Specific Individuals in Varying Image Qualities"**. The project investigates how Convolutional Neural Networks (CNNs) can be optimized for facial recognition in images with varying levels of noise and quality. A novel dynamic denoising layer utilizing Gaussian filters was introduced to improve performance on noisy data.
 
 ---
@@ -20,10 +22,8 @@ This repository contains the resources, data, and code for the research project 
 3. [Dataset](#dataset)  
 4. [Methodology](#methodology)  
 5. [Results](#results)  
-6. [Installation](#installation)  
-7. [Usage](#usage)  
-8. [Acknowledgments](#acknowledgments)  
-9. [References](#references)  
+6. [Acknowledgments](#acknowledgments)  
+ 
 
 ---
 
@@ -82,3 +82,8 @@ The CNN includes:
 Visualization examples and performance metrics are detailed in the results folder.
 
 ---
+
+## Acknowledgments
+Special thanks to:
+- **Dr. Udagedara** for mentorship and guidance.
+- **Lewis University Data Science Department** for support and resources.
